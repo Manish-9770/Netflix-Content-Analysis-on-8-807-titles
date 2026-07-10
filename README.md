@@ -48,8 +48,7 @@ SQL Business Queries (MySQL / MariaDB)
 ### Page 1 – Overview & KPIs
 > KPI cards (9K Titles, 6K Movies, 3K TV Shows, 127 Countries, 5K Directors, 43 Genres), content type donut chart (69.62% Movie / 30.38% TV Show), and titles added by year trend showing Netflix's content explosion from 2016 to 2020.
 
-![Overview](Netflix-Content-Analysis-on-8-807-titles/screenshot
-/Netflix.1.png)
+![Overview](screenshot/Netflix.1.png)
 
 ---
 
