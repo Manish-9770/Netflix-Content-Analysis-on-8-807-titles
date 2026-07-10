@@ -55,28 +55,28 @@ SQL Business Queries (MySQL / MariaDB)
 ### Page 2 – Country Analysis
 > Stacked bar chart showing Movie vs TV Show split by country, total titles by country bar chart, and a TV-MA share % table for country-level maturity analysis.
 
-![Country](screenshot/Netflix_2.png)
+![Country](screenshot/Netflix.2.png)
 
 ---
 
 ### Page 3 – Genre Analysis
 > Top genres by total titles bar chart and a multi-line trend showing genre-wise content growth from 2008–2021, with year and type slicers for dynamic filtering.
 
-![Genre](screenshot/Netflix_3.png)
+![Genre](screenshot/Netflix.3.png)
 
 ---
 
 ### Page 4 – Ratings & Duration
 > Total titles by rating (TV-MA at 3.2K dominates), KPI cards for median (98 min) and average (99.53 min) movie duration, rating × type clustered bar, and a duration bucket histogram.
 
-![Ratings](screenshot/Netflix_4.png)
+![Ratings](screenshot/Netflix.4.png)
 
 ---
 
 ### Page 5 – Director & Monthly Trends
 > Top directors bar chart, a month × year matrix showing titles added per month (2008–2021), and Movie vs TV Show ratio cards.
 
-![Director](screenshot/Netflix_5.png)
+![Director](screenshot/Netflix.5.png)
 
 ---
 
